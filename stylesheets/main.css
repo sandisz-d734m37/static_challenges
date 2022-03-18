@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+
+h2{
+  font-size: 25px;
+  font-family:helvetica;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 20px;
+  font-family:helvetica;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.site_header{
+  background-color: darkred;
+  color: #ffffff;
+  font-family: helvetica;
+  font-size:30px;
+  width:100%;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.login_link{
+  float:right;
+  color: #ffffff !important;
+  font-family: helvetica;
+  font-size: 16px;
+  padding-left: 0px;
+  padding-right: 40px;
+  padding-top: 5px;
+  margin-right:0px;
+}
+
+.linklist{
+  background-color: #383434;
+  height:50px;
+  width:100%;
+  padding-right:25px;
+}
+
+.indiv_link{
+  color:white;
+  font-family: helvetica;
+  font-size: 14px;
+  padding-bottom:25px;
+  padding-top:15px;
+  padding-right: 15px;
+  float:right;
+}
+
+.image_grid_left_third{
+  width: 75%;
+  margin:25px;
+  float: left;
+}
+
+.lipsum{
+  font-family: helvetica;
+  font-size: 16px;
+}
+
+.image_grid_right_third{
+  width: 18%;
+  margin-right:25px;
+  margin-top:25px;
+  float: right;
+}
+
+.indiv_image{
+  width:100%;
+  margin-bottom: 75px;
+}
+
+.text_container{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+}
+
+#footer{
+  position:relative;
+  margin-top:63%;
+  padding-bottom:10px;
+  width:100%;
+  height:80px;
+  background-color: #383434;
+}
+
+#footer_text{
+  position:absolute;
+  bottom:0px;
+  padding:15px;
+  font-size:16px;
+  font-family:helvetica;
+  color:white;
+}
